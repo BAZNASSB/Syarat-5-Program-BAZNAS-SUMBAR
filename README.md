@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
         <li>Nomor Handphone (HP) aktif</li>
         <li>Fotokopi Kartu Keluarga (KK)</li>
         <li>Fotokopi Kartu Tanda Penduduk (KTP)</li>
-        <li>Surat Keterangan Kurang Mampu (ASLI)</li>
+        <li>Surat Keterangan Tidak Mampu (ASLI)</li>
         <li>Surat Keterangan Jamaah Masjid (ASLI)</li>
         <li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li>
     
@@ -31,17 +31,23 @@
     <div id="PENDIDIKAN" class="hidden">
         <div class="submenu" onclick="toggle('PENDIDIKAN_SMA_SEDERAJAT')">Pendidikan SMA/SMK/SLB & SEDERAJAT</div>
         <div id="PENDIDIKAN_SMA_SEDERAJAT" class="hidden">
+            <ul><li> Surat Keterangan Aktif Sekolah (ASLI)</li></ul>
+             <ul><li>Surat Pernyataan Tidak Menerima Beasiswa</li></ul>
             <ul><li>Permohonan diberikan kepada perwakilan UPZ Sekolah masing-masing</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
         <div class="submenu" onclick="toggle('PENDIDIKAN_S1')">Pendidikan S1</div>
         <div id="PENDIDIKAN_S1" class="hidden">
+            <ul><li>Surat Keterangan Aktif Kuliah (ASLI)</li></ul>
+            <ul><li>Surat Pernyataan Tidak Menerima Beasiswa dari Sumber Lainnya</li></ul>
             <ul><li>Permohonan diajukan ke UPZ di Kampus masing-masing</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan S1" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
        <div class="submenu" onclick="toggle('PENDIDIKAN_S2')">Pendidikan S2</div>
         <div id="PENDIDIKAN_S2" class="hidden">
             <ul><li> SK Mengajar / SK Homebase dari Pesantren</li></ul>
+            <ul><li> Surat Keterangan Aktif Kuliah (ASLI)</li></ul>
+            <ul><li>Surat Pernyataan Tidak Menerima Beasiswa</li></ul>
             <ul><li>Bukti penghasilan dari yayasan/ slip gaji</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
@@ -65,7 +71,8 @@
         </div>
       <div class="submenu" onclick="toggle('BANTUAN_Hutang')">Bantuan Hutang Pengobatan</div>
         <div id="BANTUAN_Hutang" class="hidden">
-             <ul><li>  Surat Keterangan Hutang/ tunggakan BPJS terbaru (optional)</li></ul>
+            <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>   
+            <ul><li>  Surat Keterangan Hutang/ tunggakan BPJS terbaru (optional)</li></ul>
             <ul><li>  Foto Pasien (optional)</li></ul>
            <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Kesehatan Hutang" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
@@ -126,3 +133,5 @@
             }
         }
     </script>
+</body>
+</html>
