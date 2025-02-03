@@ -22,7 +22,7 @@
         <li>Fotokopi Kartu Tanda Penduduk (KTP)</li>
         <li>Surat Keterangan Tidak Mampu (ASLI)</li>
         <li>Surat Keterangan Jamaah Masjid (ASLI)</li>
-        <li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li>
+        <li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah/ BANK Nagari atau Perbankan Lainnya)</li>
     
      <h2>Selain Syarat Umum; Terdapat Syarat Tambahan Berikut Pada Masing-masing Program</h2>
      <ul style="text-align: left; display: inline-block;">
